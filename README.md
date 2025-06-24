@@ -61,9 +61,6 @@ I’m a passionate and creative web developer who loves to learn new technologie
   <img alig src="https://github-profile-trophy.vercel.app/?username=Shammi-Akhter&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
- 
-
 # 📊 GitHub Stats:
 <table>
   <tr>
