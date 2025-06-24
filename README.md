@@ -48,9 +48,10 @@ I’m a passionate and creative web developer who loves to learn new technologie
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://x.com/ShammiAkth36648" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X profile" />
+</a>
+
 </p>
 
 ---
