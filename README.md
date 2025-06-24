@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" />
+  <img src="https://i.ibb.co/dsjp4Qzm/github-header-image.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Shammi Akter</h1>
@@ -55,16 +55,36 @@ I’m a passionate and creative web developer who loves to learn new technologie
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 🏆 Trophy
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Shammi-Akhter&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+
+ 
+
+## 📊 GitHub Stats:
+
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shammi-Akhter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+
+  </td>
+<td>
+  <img src="https://streak-stats.demolab.com?user=Shammi-Akhter&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+</td>
+
+</tr>
+</table>
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammi-Akhter&theme=vue&hide_border=false&layout=compact)
+
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shammi-Akhter&theme=radical" height="150"/>
 </p>
 
 ---
