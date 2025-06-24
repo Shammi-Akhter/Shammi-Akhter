@@ -1,10 +1,11 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/dsjp4Qzm/github-header-image.png" alt="Banner" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Shammi Akter</h1>
 <h3 align="center">MERN Stack Developer | Tech Explorer | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://i.ibb.co/dsjp4Qzm/github-header-image.png" alt="Banner" />
+</p>
 
 ---
 
@@ -64,28 +65,25 @@ I’m a passionate and creative web developer who loves to learn new technologie
 
  
 
-## 📊 GitHub Stats:
-
+# 📊 GitHub Stats:
 <table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shammi-Akhter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
-
-  </td>
-<td>
-  <img src="https://streak-stats.demolab.com?user=Shammi-Akhter&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-</td>
-
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shammi-Akhter&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Shammi-Akhter&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammi-Akhter&theme=vue&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammi-Akhter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Shammi-Akhter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shammi-Akhter&theme=radical" height="150"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ---
 
