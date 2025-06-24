@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Shammi Akter</h1>
 <h3 align="center">MERN Stack Developer | Tech Explorer | Lifelong Learner</h3>
 <p align="center">
-  <img src="https://i.ibb.co/dsjp4Qzm/github-header-image.png" alt="Banner" />
+  <img src="https://i.ibb.co/zHLTX2CT/github-header-image-1.png" alt="Banner" />
 </p>
 
 ---
@@ -44,12 +44,10 @@ I’m a passionate and creative web developer who loves to learn new technologie
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shammisumi137@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff5722.svg?style=flat&logo=Google-Chrome&logoColor=white" />
-  </a>
+
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
   </a>
