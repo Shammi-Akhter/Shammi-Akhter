@@ -46,17 +46,18 @@ I’m a passionate and creative web developer who loves to learn new technologie
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shammisumi137@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://x.com/ShammiAkth36648" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X profile" />
-</a>
-
+    <img src="https://img.shields.io/badge/X&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
+
+
+
 
 ---
 ## 🏆 Trophy
