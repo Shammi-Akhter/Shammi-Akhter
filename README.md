@@ -15,10 +15,14 @@ I’m a passionate and creative web developer who loves to learn new technologie
 
 ### 🔭 Current Activities:
 
-- 🚀 Exploring **Next.js** and **React Server Components**
-- 🌐 Building a **language learning tutor booking website**
-- 📘 Studying **Data Structures and Algorithms**
-- ✍️ Writing tech blogs on **Dev.to**
+- ⚛️ Working with **React Router** for dynamic and protected routing
+- ⚡ Developing projects using **Vite** for fast frontend builds
+- ☁️ Deploying apps with **Vercel**
+- 🔐 Implementing **Firebase Authentication** for secure user access
+- 🗄️ Managing data with **MongoDB**
+- 💳 Integrating **Payment Gateway Systems**
+- 🛡️ Securing APIs using **JWT (JSON Web Tokens)**
+
 
 ---
 
