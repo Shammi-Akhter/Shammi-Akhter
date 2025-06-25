@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Shammi Akter</h1>
-<h3 align="center">MERN Stack Developer | Tech Explorer | Lifelong Learner</h3>
+<h3 align="center">Front-End Developer | Tech Explorer | Lifelong Learner</h3>
 <p align="center">
   <img src="https://i.ibb.co/zHLTX2CT/github-header-image-1.png" alt="Banner" />
 </p>
