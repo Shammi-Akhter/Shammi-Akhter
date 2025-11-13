@@ -70,7 +70,7 @@ I’m a passionate and creative web developer who loves to learn new technologie
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shammi-Akhter&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Shammi-Akhter&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Shammi-Akhter&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -78,10 +78,14 @@ I’m a passionate and creative web developer who loves to learn new technologie
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammi-Akhter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shammi-Akhter&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shammi-Akhter&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
